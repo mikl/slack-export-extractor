@@ -1,0 +1,22 @@
+{
+  "name": "slack-export-extractor",
+  "version": "1.0.0",
+  "description": "Extract one or more channels from a Slack export",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikl/slack-export-extractor.git"
+  },
+  "keywords": [
+    "slack"
+  ],
+  "author": "Mikkel Hoegh <mikkel@hoegh.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikl/slack-export-extractor/issues"
+  },
+  "homepage": "https://github.com/mikl/slack-export-extractor"
+}
